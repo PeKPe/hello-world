@@ -3,5 +3,5 @@ Kouluharjoitus
 
 Saa nähdä mitä tästä tulee :)
 
-Uusi liskäys
+Uusi lisäys. Kirjoitusvirheen korjaus.
 
